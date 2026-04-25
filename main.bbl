@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{agrawal2004}
+Rakesh Agrawal, Jerry Kiernan, R.~Srikant, and Yirong Xu.
+\newblock Order preserving encryption for numeric data.
+\newblock {\em Proceedings of the 2004 ACM SIGMOD international conference on Management of data}, 2004.
+
+\bibitem{asan2014}
+Asan~Medical Center.
+\newblock Asan medical center website, 2014.
+\newblock Helth Information.
+
+\bibitem{accessnow2021gdpr}
+Eric Null; Isedua Oribhabor;~Willmary Escoto.
+\newblock Data minimization: Key to protecting privacy and reducing harm (three years under the eu gdpr).
+\newblock Technical report, AccessNow, May 2021.
+
+\bibitem{groth2016}
+Jens Groth.
+\newblock On the size of pairing-based non-interactive arguments.
+\newblock {\em Annual international conference on the theory and applications of cryptographic techniques}, 2016.
+
+\bibitem{ibm2025cost}
+{IBM} and {Ponemon Institute}.
+\newblock Cost of a data breach report 2025: The ai oversight gap.
+\newblock Technical report, IBM, 2025.
+
+\bibitem{islam2012}
+Mohammad~Saiful Islam, Mehmet Kuzu, and Murat Kantarcioglu.
+\newblock Access pattern disclosure on searchable encryption: Ramification, attack and mitigation.
+\newblock {\em Ndss}, 20, 2012.
+
+\bibitem{li2009}
+Tiancheng Li and Ninghui Li.
+\newblock On the tradeoff between privacy and utility in data publishing.
+\newblock {\em Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining}, 2009.
+
+\bibitem{li2023}
+Xiling Li, Chenkai Weng, Yongxin Xu, Xiao Wang, and Jennie Rogers.
+\newblock Zksql: Verifiable and efficient query evaluation with zero-knowledge proofs.
+\newblock {\em Proceedings of the VLDB Endowment}, 2023.
+
+\bibitem{naveed2015}
+Muhammad Naveed, Seny Kamara, and Charles~V. Wright.
+\newblock Inference attacks on property-preserving encrypted databases.
+\newblock {\em Proceedings of the 22nd ACM SIGSAC conference on computer and communications security}, 2015.
+
+\bibitem{popa2011}
+Raluca~Ada Popa, Catherine M.~S. Redfield, Nickolai Zeldovich, and Hari Balakrishnan.
+\newblock Cryptdb: Protecting confidentiality with encrypted query processing.
+\newblock {\em Proceedings of the twenty-third ACM symposium on operating systems principles}, 2011.
+
+\bibitem{shen2021}
+Ning Shen, Jyh haw Yeh, Hung-Min Sun, and Chien-Ming Chen.
+\newblock A practical and secure stateless order preserving encryption for outsourced databases.
+\newblock {\em IEEE 26th Pacific Rim International Symposium on Dependable Computing (PRDC)}, 2021.
+
+\bibitem{wang2013}
+Peng Wang and Chinya~V. Ravishankar.
+\newblock Secure and efficient range queries on outsourced databases using rp-trees.
+\newblock {\em IEEE 29th international conference on data engineering (ICDE)}, 2013.
+
+\bibitem{wang2025}
+Zuan Wang, Juntao Lu, Jiazhuang Wu, Youliang Tian, Wei Song, Qiuxian Li, and Duo Zhang.
+\newblock {Towards Privacy-Preserving Range Queries with Secure Learned Spatial Index over Encrypted Data}.
+\newblock {\em arXiv preprint arXiv:2512.03669}, 2025.
+
+\bibitem{who2011}
+World Health~Organization (WHO).
+\newblock Use of glycated haemoglobin (hba1c) in diagnosis of diabetes mellitus: Abbreviated report of a who consultation.
+\newblock {\em World Health Organization, Geneva, Switzerland}, 2011.
+
+\bibitem{xu2019}
+Cheng Xu, Ce~Zhang, and Jianliang Xu.
+\newblock vchain: Enabling verifiable boolean range queries over blockchain databases.
+\newblock {\em Proceedings of the 2019 international conference on management of data}, 2019.
+
+\bibitem{gao2024}
+Jiheng Gao; Jingbo Guan;~Jiangfeng Xu.
+\newblock A scheme for privacy protection of medical data based on blockchain.
+\newblock {\em 4th International Conference on Computer Science and Blockchain (CCSB)}, 2024.
+
+\bibitem{zhang2015}
+Yupheng Zhang, Jonathan Katz, and Charalampos Papamanthou.
+\newblock Integridb: Verifiable sql for outsourced databases.
+\newblock {\em Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security}, 2015.
+
+\bibitem{zhou2021}
+Wenchao Zhou, Yifan Cai, Yanqing Peng, Sheng Wang, Ke~Ma, and Feifei Li.
+\newblock Veridb: An sgx-based verifiable database.
+\newblock {\em Proceedings of the 2021 International Conference on Management of Data}, 2021.
+
+\end{thebibliography}

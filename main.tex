@@ -1,0 +1,63 @@
+% \documentclass[10pt, a4paper, twocolumn]{article}
+\documentclass[10pt, a4paper]{article}
+
+% Language setting
+\usepackage{kotex}
+\usepackage[utf8]{inputenc}
+
+% Page Size, Margins
+\usepackage[a4paper,top=38mm,bottom=38mm,left=35mm,right=35mm,headheight=15mm, footskip=15mm]{geometry}
+
+% Indentations
+\setlength{\parindent}{2em}
+\usepackage{indentfirst}
+
+% Line Spacing
+\usepackage{setspace}
+\setstretch{1.6}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{pgfplots}
+\usepackage{float}
+\pgfplotsset{compat=1.18}
+\usepackage{makecell}
+
+% Path to figures
+\graphicspath{{figures/}}
+
+\title{zk-SNARK 기반, 프라이버시를 보존하는 수치형 의료 데이터에 대한 증명 검색 시스템 \\ \bigskip \large Privacy-Preserving Proof Search System for Numerical Medical Data based on zk-SNARK}
+\author{황보진우 \and 박수용}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\input{sections/(00) Abstract}
+\end{abstract}
+
+\section{서론}
+\input{sections/(01) Introduction}
+
+\section{관련 연구}
+\input{sections/(02) Related Research}
+
+\section{배경 기술}
+\input{sections/(03) Technical Backgrounds}
+
+\section{제안하는 시스템}
+\input{sections/(04) Proposed System}
+
+\section{실험}
+\input{sections/(05) Experiment}
+
+\section{결론}
+\input{sections/(06) Conclusion}
+
+\bibliographystyle{plain}
+\bibliography{reference}
+
+\end{document}
