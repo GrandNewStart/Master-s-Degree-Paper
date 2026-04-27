@@ -361,15 +361,14 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmac.
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd5.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc6.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc5.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmba.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb3.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb7.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd1.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb9.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmba.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmad.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmae.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb2.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd0.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmbd.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd4.tfm
@@ -384,8 +383,6 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd2.
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd7.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc3.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmcd.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb6.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmcf.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc1.tfm

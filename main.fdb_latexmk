@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1777093712.14261 "main.aux" "main.bbl" "main" 1777093793.0071 0
+["bibtex main"] 1777125098.1893 "main.aux" "main.bbl" "main" 1777197717.14793 0
   "./reference.bib" 1776898594 4992 f8fa2f5673ad3fb4cf435378ba7e3483 ""
   "/usr/local/texlive/2026/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1777093792.26543 10950 4b1020e3d1d0bd35cd1dbb4118330ef6 "pdflatex"
+  "main.aux" 1777197716.43533 10950 c922733c0bc486480be400ee2430f99b "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777093789.74153 "/Users/jinwoo/Documents/Degree_Paper/main.tex" "main.pdf" "main" 1777093793.00724 0
+["pdflatex"] 1777197713.92776 "/Users/jinwoo/Documents/Degree_Paper/main.tex" "main.pdf" "main" 1777197717.14808 0
   "/Users/jinwoo/Documents/Degree_Paper/main.tex" 1777093789.53532 1453 458a92be6803e0ab1a864f9dae28a3a8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -394,17 +394,17 @@
   "figures/figure11.png" 1776898596 45574 c1349243f73d07997f1432a82fef38c4 ""
   "figures/figure15-1.png" 1776898596 109633 b2801424fb6fbfee7eaf72d77554033f ""
   "figures/figure15-2.png" 1776898596 114447 fbdb5149e1419798ff2d8d068dfd26a6 ""
-  "main.aux" 1777093792.26543 10950 4b1020e3d1d0bd35cd1dbb4118330ef6 "pdflatex"
-  "main.bbl" 1777093712.23064 4214 43992ce093f36d695da9f4776c3c02d5 "bibtex main"
-  "main.out" 1777093792.26642 8347 71d31b30704e86f8cc3e2f0f1a2f0667 "pdflatex"
+  "main.aux" 1777197716.43533 10950 c922733c0bc486480be400ee2430f99b "pdflatex"
+  "main.bbl" 1777125098.27969 4214 43992ce093f36d695da9f4776c3c02d5 "bibtex main"
+  "main.out" 1777197716.43644 8347 71d31b30704e86f8cc3e2f0f1a2f0667 "pdflatex"
   "main.tex" 1777093789.53532 1453 458a92be6803e0ab1a864f9dae28a3a8 ""
-  "sections/(00) Abstract.tex" 1776932867.8809 1985 3814cea0e7fe0564e2fc85e886781c08 ""
-  "sections/(01) Introduction.tex" 1777034042.81552 13203 a2b474f12179f74da602cf4aea92c1c4 ""
+  "sections/(00) Abstract.tex" 1777094693.6789 1917 8c0be22601e3453adee747f6cc2c532e ""
+  "sections/(01) Introduction.tex" 1777096114.55816 13256 4a5ee8d4a4ecbbe3b9f584108ae062a8 ""
   "sections/(02) Related Research.tex" 1776932866.63252 7297 e7c527a07a7d8009f33160027ab44cc9 ""
   "sections/(03) Technical Backgrounds.tex" 1776932866.08238 10179 0efb2163bc8c11a34c880866c8ef0a23 ""
   "sections/(04) Proposed System.tex" 1776932865.21705 25653 dd01593b14dc467cf3056d9e0f1aa9f8 ""
-  "sections/(05) Experiment.tex" 1776932872.45475 32178 9bd841957538cda9917691079aea2dd2 ""
-  "sections/(06) Conclusion.tex" 1776932876.18626 4002 9fbcd2608fe72c9f2608b1e567cbf6c9 ""
+  "sections/(05) Experiment.tex" 1777125369.68266 32404 eeb3c307e066742fb09657a381fc3801 ""
+  "sections/(06) Conclusion.tex" 1777197713.73187 3816 7fd95ca27d35964d2ebd50facc29ccde ""
   (generated)
   "main.aux"
   "main.log"
