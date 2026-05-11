@@ -24,6 +24,7 @@
 \usepackage{float}
 \pgfplotsset{compat=1.18}
 \usepackage{makecell}
+\usepackage{url}
 
 % Path to figures
 \graphicspath{{figures/}}
@@ -33,11 +34,62 @@
 \date{\today}
 
 \begin{document}
-\maketitle
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\huge \bfseries zk-SNARK 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
+    \vspace{1cm}
+    {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on zk-SNARK \par}
+    \vfill
+    {\LARGE 2026년 O월 \par}
+    \vfill
+    {\LARGE 서강대학교 대학원 \par}
+    {\LARGE 컴퓨터공학과 \par}
+    {\LARGE 황보진우 \par}
+    \vspace*{2cm}
+\end{titlepage}
 
-\begin{abstract}
-\input{sections/(00) Abstract}
-\end{abstract}
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\huge \bfseries zk-SNARK 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
+    \vspace{1cm}
+    {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on zk-SNARK \par}
+    \vfill
+    {\LARGE 지도교수 박 수 용 \par}
+    \vfill
+    {\LARGE 이 논문을 공학석사 학위논문으로 제출함 \par}
+    \vfill
+    {\LARGE 2026년 O월 O일\par}
+    \vfill
+    {\LARGE 서강대학교 대학원 \par}
+    {\LARGE 컴퓨터공학과 \par}
+    {\LARGE 황보진우 \par}
+    \vspace*{2cm}
+\end{titlepage}
+
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\huge \bfseries \underbar{논 문 인 준 서} \par}
+    \vspace{1cm}
+    {\Large 황보진우의 공학석사 학위논문을 인준함 \par}
+    \vfill
+    {\LARGE 2026년 O월 O일\par}
+    \vfill
+    % \right
+    {\LARGE 주심   O O O \par}
+    {\LARGE 부심   O O O \par}
+    \vspace*{2cm}
+\end{titlepage}
+
+% \maketitle
+
+% \begin{abstract}
+% \input{sections/(00) Abstract}
+% \end{abstract}
+
+\input{sections/(00) Abstract.tex}
 
 \section{서론}
 \input{sections/(01) Introduction}
@@ -59,5 +111,7 @@
 
 \bibliographystyle{plain}
 \bibliography{reference}
+
+\input{sections/(07) Abstract_EN.tex}
 
 \end{document}

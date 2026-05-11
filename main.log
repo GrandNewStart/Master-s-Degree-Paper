@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.23)  26 APR 2026 19:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.23)  11 MAY 2026 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -554,30 +554,30 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 35.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 36.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -632,7 +632,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 36.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -640,15 +640,42 @@ Package hyperref Info: Link coloring ON on input line 35.
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-(./sections/(00) Abstract.tex) (./sections/(01) Introduction.tex [1
+[1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/figure01.png, id=242, 890.32625pt x 521.95pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.69 \end{titlepage}
+                     [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 \end{titlepage}
+                     [1] (./sections/(00) Abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 \clearpage
+                [1]) (./sections/(01) Introduction.tex
+<figures/figure01.png, id=280, 890.32625pt x 521.95pt>
 File: figures/figure01.png Graphic file (type png)
 <use figures/figure01.png>
 Package pdftex.def Info: figures/figure01.png  used on input line 19.
 (pdftex.def)             Requested size: 398.3386pt x 233.5214pt.
- [2] [3
+ [2
+
+] [3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -662,19 +689,13 @@ File: lucuhcmj.fd 2013/09/26 UHC Myeongjo font definitions
 LaTeX Font Warning: Font shape `LUC/uhcmj/bx/n' undefined
 (Font)              using `LUC/uhcmj/m/n' instead on input line 40.
 
-[4] [5]) (./sections/(02) Related Research.tex [6] [7]) (./sections/(03) Technical Backgrounds.tex [8]
+[4]) [5] (./sections/(02) Related Research.tex [6] [7]) (./sections/(03) Technical Backgrounds.tex
 Overfull \hbox (0.89139pt too wide) in paragraph at lines 12--13
 []\OT1/cmr/m/n/10 zk-SNARK\LUC/nanummj/m/n/10/b9 | \LUC/nanummj/m/n/10/c8 ^^A\LUC/nanummj/m/n/10/c6 ©\LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/ae 0 \LUC/nanummj/m/n/10/c7 ^^D\LUC/nanummj/m/n/10/d5 t\LUC/nanummj/m/n/10/c1 ^^\\LUC/nanummj/m/n/10/b2 î \LUC/nanummj/m/n/10/c9 ù\LUC/nanummj/m/n/10/ba Ö\LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/ac ‡\LUC/nanummj/m/n/10/c7 ê \LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/b2 î \LUC/nanummj/m/n/10/c5 \LUC/nanummj/m/n/10/c0 ∞\OT1/cmr/m/n/10 (Com-pu-ta-tion)\LUC/nanummj/m/n/10/c7 D \LUC/nanummj/m/n/10/c0 ∞\LUC/nanummj/m/n/10/c2   \LUC/nanummj/m/n/10/d6 å\LUC/nanummj/m/n/10/b8 \\OT1/cmr/m/n/10 (Arith-
  []
 
-Missing character: There is no ˝ in font uwmjff!
-Missing character: There is no ˝ in font uwmjff!
-Missing character: There is no ˝ in font uwmjff!
-Missing character: There is no ˝ in font uwmjff!
-[9] [10]
-Missing character: There is no ^^R in font uwmj22!
-) (./sections/(04) Proposed System.tex
-<figures/figure02.png, id=361, 992.70876pt x 566.115pt>
+[8] [9] [10]) (./sections/(04) Proposed System.tex
+<figures/figure02.png, id=368, 992.70876pt x 566.115pt>
 File: figures/figure02.png Graphic file (type png)
 <use figures/figure02.png>
 Package pdftex.def Info: figures/figure02.png  used on input line 7.
@@ -683,29 +704,34 @@ Package pdftex.def Info: figures/figure02.png  used on input line 7.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.18 
+l.21 
       <./figures/figure02.png>]
-<figures/figure03-1.png, id=372, 873.2625pt x 289.08pt>
+<figures/figure03-1.png, id=380, 873.2625pt x 289.08pt>
 File: figures/figure03-1.png Graphic file (type png)
 <use figures/figure03-1.png>
 Package pdftex.def Info: figures/figure03-1.png  used on input line 29.
 (pdftex.def)             Requested size: 398.3386pt x 131.86243pt.
-<figures/figure03-2.png, id=373, 873.2625pt x 362.35374pt>
+<figures/figure03-2.png, id=381, 873.2625pt x 362.35374pt>
 File: figures/figure03-2.png Graphic file (type png)
 <use figures/figure03-2.png>
 Package pdftex.def Info: figures/figure03-2.png  used on input line 30.
 (pdftex.def)             Requested size: 398.3386pt x 165.28589pt.
-<figures/figure03-3.png, id=374, 873.2625pt x 154.5775pt>
+<figures/figure03-3.png, id=382, 873.2625pt x 154.5775pt>
 File: figures/figure03-3.png Graphic file (type png)
 <use figures/figure03-3.png>
 Package pdftex.def Info: figures/figure03-3.png  used on input line 31.
 (pdftex.def)             Requested size: 398.3386pt x 70.50975pt.
-<figures/figure04.png, id=375, 467.7475pt x 282.05376pt>
+<figures/figure04.png, id=383, 467.7475pt x 282.05376pt>
 File: figures/figure04.png Graphic file (type png)
 <use figures/figure04.png>
 Package pdftex.def Info: figures/figure04.png  used on input line 41.
 (pdftex.def)             Requested size: 318.67209pt x 192.16843pt.
- [13]
+ [13] [14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.44 
+      <./figures/figure03-1.png> <./figures/figure03-2.png> <./figures/figure03-3.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 49.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
@@ -717,113 +743,113 @@ Overfull \hbox (1.80331pt too wide) in paragraph at lines 49--50
 []\LUC/nanummj/m/n/10/c6 ^^H\LUC/nanummj/m/n/10/b9 | \LUC/nanummj/m/n/10/b4 ‰\LUC/nanummj/m/n/10/c5 ¥ \OT1/cmr/m/n/10 `\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 \attribute": \attr0001", \value": 5.3, \timestamp": 1768452114, \signature":
  []
 
-[14
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.50 
-      <./figures/figure03-1.png> <./figures/figure03-2.png> <./figures/figure03-3.png>]
-<figures/figure05.png, id=390, 706.64pt x 460.72125pt>
+<figures/figure05.png, id=396, 706.64pt x 460.72125pt>
 File: figures/figure05.png Graphic file (type png)
 <use figures/figure05.png>
 Package pdftex.def Info: figures/figure05.png  used on input line 53.
 (pdftex.def)             Requested size: 398.3386pt x 259.71043pt.
-<figures/figure06.png, id=391, 416.55624pt x 300.12125pt>
+[15
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.56 
+      <./figures/figure04.png>]
+<figures/figure06.png, id=404, 416.55624pt x 300.12125pt>
 File: figures/figure06.png Graphic file (type png)
 <use figures/figure06.png>
 Package pdftex.def Info: figures/figure06.png  used on input line 65.
 (pdftex.def)             Requested size: 318.67209pt x 229.61032pt.
- [15
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.70 
-      <./figures/figure04.png>]
-<figures/figure07.png, id=399, 496.85625pt x 311.1625pt>
-File: figures/figure07.png Graphic file (type png)
-<use figures/figure07.png>
-Package pdftex.def Info: figures/figure07.png  used on input line 79.
-(pdftex.def)             Requested size: 398.3386pt x 249.46686pt.
  [16
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.84 
+l.68 
       <./figures/figure05.png>]
-<figures/figure08.png, id=406, 523.9575pt x 402.50375pt>
-File: figures/figure08.png Graphic file (type png)
-<use figures/figure08.png>
-Package pdftex.def Info: figures/figure08.png  used on input line 97.
-(pdftex.def)             Requested size: 398.3386pt x 306.01044pt.
+<figures/figure07.png, id=414, 496.85625pt x 311.1625pt>
+File: figures/figure07.png Graphic file (type png)
+<use figures/figure07.png>
+Package pdftex.def Info: figures/figure07.png  used on input line 79.
+(pdftex.def)             Requested size: 398.3386pt x 249.46686pt.
  [17
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.102 
-       <./figures/figure06.png>] [18
+l.82 
+      <./figures/figure06.png>] [18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.110 
-       <./figures/figure07.png>] [19
+l.88 
+      <./figures/figure07.png>]
+<figures/figure08.png, id=427, 523.9575pt x 402.50375pt>
+File: figures/figure08.png Graphic file (type png)
+<use figures/figure08.png>
+Package pdftex.def Info: figures/figure08.png  used on input line 97.
+(pdftex.def)             Requested size: 398.3386pt x 306.01044pt.
+ [19
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.114 
-       <./figures/figure08.png>]
-<figures/figure09.png, id=428, 590.205pt x 342.27875pt>
+l.102 
+       <./figures/figure08.png>] [20]
+<figures/figure09.png, id=439, 590.205pt x 342.27875pt>
 File: figures/figure09.png Graphic file (type png)
 <use figures/figure09.png>
 Package pdftex.def Info: figures/figure09.png  used on input line 125.
 (pdftex.def)             Requested size: 398.3386pt x 231.0125pt.
-<figures/figure10.png, id=429, 605.26125pt x 169.63374pt>
+ [21]
+<figures/figure10.png, id=444, 605.26125pt x 169.63374pt>
 File: figures/figure10.png Graphic file (type png)
 <use figures/figure10.png>
 Package pdftex.def Info: figures/figure10.png  used on input line 131.
 (pdftex.def)             Requested size: 398.3386pt x 111.64023pt.
- [20] [21
+ [22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.140 
+l.136 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.140 
+l.136 
        <./figures/figure09.png> <./figures/figure10.png>]
-<figures/figure11.png, id=442, 389.455pt x 271.0125pt>
+<figures/figure11.png, id=454, 389.455pt x 271.0125pt>
 File: figures/figure11.png Graphic file (type png)
 <use figures/figure11.png>
 Package pdftex.def Info: figures/figure11.png  used on input line 143.
 (pdftex.def)             Requested size: 398.3386pt x 277.20238pt.
-<figures/Figure12.png, id=443, 667.49374pt x 615.29875pt>
+ [23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.148 
+       <./figures/figure11.png>]
+<figures/Figure12.png, id=462, 667.49374pt x 615.29875pt>
 File: figures/Figure12.png Graphic file (type png)
 <use figures/Figure12.png>
 Package pdftex.def Info: figures/Figure12.png  used on input line 151.
 (pdftex.def)             Requested size: 398.3386pt x 367.20108pt.
- [22
-pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.158 
-       <./figures/figure11.png>] [23
+ [24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.159 \subsection
-                 {ÏãúÏä§ÌÖú ÏÑ±Îä• Î∞è Î≥¥ÏïàÏÑ±Ïóê ÎåÄÌïú Í≥†Ï∞∞} <./figures/Figure12.png>]) (./sections/(05) Experiment.tex [24] [25] [26{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [27] [28
+l.158 
+       <./figures/Figure12.png>]) [25] (./sections/(05) Experiment.tex [26] [27{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [28]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.93 
-     
+     ]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.93 
-     ] [29
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.121 
@@ -831,52 +857,67 @@ l.121
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.169 
       ]
 Package pgfplots info on input line 195: Using 'lua backend=false' for axis: x coord trafo unsupported.
- [31
+ [32
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.211 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.211 
       ]
 Package pgfplots info on input line 234: Using 'lua backend=false' for axis: x coord trafo unsupported.
- [32
+ [33
 pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.250 
       ]
-<figures/figure15-1.png, id=513, 1138.2525pt x 630.355pt>
+<figures/figure15-1.png, id=524, 1138.2525pt x 630.355pt>
 File: figures/figure15-1.png Graphic file (type png)
 <use figures/figure15-1.png>
 Package pdftex.def Info: figures/figure15-1.png  used on input line 259.
 (pdftex.def)             Requested size: 318.67209pt x 176.47896pt.
-<figures/figure15-2.png, id=514, 1122.1925pt x 883.3pt>
+<figures/figure15-2.png, id=525, 1122.1925pt x 883.3pt>
 File: figures/figure15-2.png Graphic file (type png)
 <use figures/figure15-2.png>
 Package pdftex.def Info: figures/figure15-2.png  used on input line 260.
 (pdftex.def)             Requested size: 318.67209pt x 250.82661pt.
- [33
+ [34
 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.263 
-      ] [34
+      ] [35
 pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.265 
-       <./figures/figure15-1.png> <./figures/figure15-2.png>]
-Overfull \hbox (27.55614pt too wide) in paragraph at lines 268--269
-[]\OT1/cmr/m/n/10 Figure 14\LUC/nanummj/m/n/10/c7 X \LUC/nanummj/m/n/10/c2 ‰\LUC/nanummj/m/n/10/d5 ÿ\LUC/nanummj/m/n/10/ac ∞¸\LUC/nanummj/m/n/10/b9 | \LUC/nanummj/m/n/10/d5 t\LUC/nanummj/m/n/10/c1 ^^]\LUC/nanummj/m/n/10/d5 X\LUC/nanummj/m/n/10/ba t \LUC/nanummj/m/n/10/b2 ‰\LUC/nanummj/m/n/10/c7 L\LUC/nanummj/m/n/10/ac ¸ ^^Y\LUC/nanummj/m/n/10/b2 ‰\OT1/cmr/m/n/10 : \LUC/nanummj/m/n/10/c2 ›\LUC/nanummj/m/n/10/bc ƒ\LUC/nanummj/m/n/10/c7 ê \OT1/cmr/m/n/10 '0a3f578b-9230-4894-85ea-853b10505bcb'
+       <./figures/figure15-1.png> <./figures/figure15-2.png>] [36]) (./sections/(06) Conclusion.tex [37]) (./main.bbl [38] [39]) (./sections/(07) Abstract_EN.tex [40]
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
  []
 
-[35]) (./sections/(06) Conclusion.tex [36]) (./main.bbl [37] [38]) [39] (./main.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) [41
+
+] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -889,18 +930,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 71D31B30704E86F8CC3E2F0F1A2F0667;8347.
  ) 
 Here is how much of TeX's memory you used:
- 32036 strings out of 467525
- 753385 string characters out of 5418982
+ 32035 strings out of 467525
+ 753571 string characters out of 5418982
  1290852 words of memory out of 5000000
- 60220 multiletter control sequences out of 15000+600000
- 687119 words of font info for 242 fonts, out of 8000000 for 9000
+ 60218 multiletter control sequences out of 15000+600000
+ 687418 words of font info for 242 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,19n,118p,1994b,2362s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/uhc/umj/umj03.pfb>
-Output written on main.pdf (39 pages, 4709863 bytes).
+ 99i,19n,118p,2004b,2362s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/uhc/umj/umj03.pfb>
+Output written on main.pdf (44 pages, 4741192 bytes).
 PDF statistics:
- 957 PDF objects out of 1000 (max. 8388607)
- 693 compressed objects within 7 object streams
- 126 named destinations out of 1000 (max. 500000)
+ 975 PDF objects out of 1000 (max. 8388607)
+ 705 compressed objects within 8 object streams
+ 127 named destinations out of 1000 (max. 500000)
  469 words of extra memory for PDF output out of 10000 (max. 10000000)
 
