@@ -1,9 +1,17 @@
-% \documentclass[10pt, a4paper, twocolumn]{article}
 \documentclass[10pt, a4paper]{article}
 
 % Language setting
 \usepackage{kotex}
+% \renewcommand{\familydefault}{\sfdefault}
 \usepackage[utf8]{inputenc}
+\renewcommand{\figurename}{그림}
+\renewcommand{\tablename}{표}
+\renewcommand{\contentsname}{목차}
+\renewcommand{\listfigurename}{그림 목차}
+\renewcommand{\listtablename}{표 목차}
+\renewcommand{\thesection}{\arabic{section}장}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
 
 % Page Size, Margins
 \usepackage[a4paper,top=38mm,bottom=38mm,left=35mm,right=35mm,headheight=15mm, footskip=15mm]{geometry}
@@ -26,6 +34,11 @@
 \usepackage{makecell}
 \usepackage{url}
 
+% TOC Spacing (Fixes overlap between chapter numbers and titles)
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{3em}
+\setlength{\cftsubsecnumwidth}{3em}
+
 % Path to figures
 \graphicspath{{figures/}}
 
@@ -34,82 +47,98 @@
 \date{\today}
 
 \begin{document}
-\begin{titlepage}
-    \centering
-    \vspace*{2cm}
-    {\huge \bfseries 영지식 증명 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
-    \vspace{1cm}
-    {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on ZKP \par}
-    \vfill
-    {\LARGE 2026년 6월 \par}
-    \vfill
-    {\LARGE 서강대학교 대학원 \par}
-    {\LARGE 컴퓨터공학과 \par}
-    {\LARGE 황보진우 \par}
-    \vspace*{2cm}
-\end{titlepage}
+% \begin{titlepage}
+%     \centering
+%     \vspace*{2cm}
+%     {\huge \bfseries 영지식 증명 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
+%     \vspace{1cm}
+%     {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on ZKP \par}
+%     \vfill
+%     {\LARGE 2026년 7월 \par}
+%     \vfill
+%     {\LARGE 서강대학교 대학원 \par}
+%     {\LARGE 컴 퓨 터 공 학과 \par}
+%     {\LARGE 황 보 진 우 \par}
+%     \vspace*{2cm}
+% \end{titlepage}
 
-\begin{titlepage}
-    \centering
-    \vspace*{2cm}
-    {\huge \bfseries 영지식 증명 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
-    \vspace{1cm}
-    {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on ZKP \par}
-    \vfill
-    {\LARGE 지도교수 박 수 용 \par}
-    \vfill
-    {\LARGE 이 논문을 공학석사 학위논문으로 제출함 \par}
-    \vfill
-    {\LARGE 2026년 6월 16일\par}
-    \vfill
-    {\LARGE 서강대학교 대학원 \par}
-    {\LARGE 컴퓨터공학과 \par}
-    {\LARGE 황보진우 \par}
-    \vspace*{2cm}
-\end{titlepage}
+% \begin{titlepage}
+%     \centering
+%     \vspace*{2cm}
+%     {\huge \bfseries 영지식 증명 기반, 프라이버시를 보존하는 \\ 수치형 의료 데이터에 대한 증명 검색 시스템 \par}
+%     \vspace{1cm}
+%     {\Large Privacy-Preserving Proof Search System for Numerical Medical Data based on ZKP \par}
+%     \vfill
+%     {\LARGE 지도교수 박 수 용 \par}
+%     \vfill
+%     {\LARGE 이 논문을 공학석사 학위논문으로 제출함 \par}
+%     \vfill
+%     {\LARGE 2026년 7월 7일\par}
+%     \vfill
+%     {\LARGE 서강대학교 대학원 \par}
+%     {\LARGE 컴 퓨 터 공 학 과 \par}
+%     {\LARGE 황 보 진 우 \par}
+%     \vspace*{2cm}
+% \end{titlepage}
 
-\begin{titlepage}
-    \centering
-    \vspace*{2cm}
-    {\huge \bfseries \underbar{논 문 인 준 서} \par}
-    \vspace{1cm}
-    {\Large 황보진우의 공학석사 학위논문을 인준함 \par}
-    \vfill
-    {\LARGE 2026년 6월 16일\par}
-    \vfill
-    % \right
-    {\LARGE 주심   박 성 용\par}
-    {\LARGE 부심   박 수 용\par}
-    {\LARGE 부심   최 재 승\par}
-    \vspace*{2cm}
-\end{titlepage}
+% \begin{titlepage}
+%     \centering
+%     \vspace*{2cm}
+%     {\huge \bfseries \underbar{논 문 인 준 서} \par}
+%     \vspace{1cm}
+%     {\Large 황보진우의 공학석사 학위논문을 인준함 \par}
+%     \vfill
+%     {\LARGE 2026년 7월 7일\par}
+%     \vfill
+%     % \right
+%     {\LARGE 주심 \space\space\space\space 박 \space\space 성 \space\space 용\par}
+%     {\LARGE 부심 \space\space\space\space 박 \space\space 수 \space\space 용\par}
+%     {\LARGE 부심 \space\space\space\space 최 \space\space 재 \space\space 승\par}
+%     \vspace*{2cm}
+% \end{titlepage}
+
+\clearpage
+\hypersetup{linkcolor=black}
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+\clearpage
+\hypersetup{linkcolor=blue}
+
+\input{sections/(00) Gratitude.tex}
 
 \input{sections/(00) Abstract.tex}
 
+\clearpage
 \section{서론}
 \input{sections/(01) Introduction}
 
+\clearpage
 \section{관련 연구}
 \input{sections/(02) Related Research}
 
+\clearpage
 \section{배경 기술}
 \input{sections/(03) Technical Backgrounds}
 
+\clearpage
 \section{제안하는 시스템}
 \input{sections/(04) Proposed System}
 
+\clearpage
 \section{실험}
 \input{sections/(05) Experiment}
 
-\section{추가적인 분석}
-\input{sections/(06) Additional Analysis}
-
+\clearpage
 \section{결론}
-\input{sections/(07) Conclusion}
+\input{sections/(06) Conclusion}
 
+\clearpage
 \bibliographystyle{plain}
 \bibliography{reference}
 
-\input{sections/(08) Abstract_EN.tex}
+\input{sections/(07) Abstract_EN.tex}
 
 \end{document}

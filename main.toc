@@ -1,0 +1,46 @@
+\contentsline {section}{\numberline {1장}서론}{7}{section.1}%
+\contentsline {subsection}{\numberline {1.1}연구 배경}{7}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}문제 정의}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}연구 목적}{9}{subsection.1.3}%
+\contentsline {section}{\numberline {2장}관련 연구}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}암호화 검색 및 순서 보존 암호}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}공간 인덱스 및 비대칭 내적 연산 기반 검색}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}동형 암호 및 학습형 인덱스 기반 검색}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}검증 가능한 데이터베이스}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}하드웨어 및 블록체인 기반 접근}{13}{subsection.2.5}%
+\contentsline {section}{\numberline {3장}배경 기술}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}zk-SNARK}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Groth16 protocol}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Merkle Proof}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}zk-SNARK 친화적 암호화 원형}{17}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}EdDSA (Edwards-curve Digital Signature Algorithm)}{17}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}MiMC (Minimal Multiplicative Complexity) 해시}{17}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}암호학적 커밋}{17}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4장}제안하는 시스템}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}구성 요소}{19}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}발급기관 (Data Issuer, DI)}{19}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}데이터 소유자 (Data Provider, DP)}{20}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}데이터 수요자 (Data Consumer, DC)}{20}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}검색 서버 (Search Server, SS)}{20}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}데이터베이스}{20}{subsubsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.2}데이터 발급 모델}{22}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}데이터 검색 모델}{25}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}범위 증명 구조}{26}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}다중 쿼리의 처리}{28}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}소유권 증명 문제}{30}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}소유권 증명 프로세스 최적화}{32}{subsubsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.7}시스템 성능 및 보안성에 대한 고찰}{32}{subsection.4.7}%
+\contentsline {section}{\numberline {5장}실험}{34}{section.5}%
+\contentsline {subsection}{\numberline {5.1}실험 설계}{34}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}마이크로 벤치마크}{34}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}설계 방식 비교 실험}{35}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}위협 모델 시뮬레이션 및 확장 보안에 대한 고찰}{36}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.2}실험 환경}{37}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}실험 결과}{37}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}마이크로 벤치마크}{37}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}설계 방식 비교 실험}{39}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}위협 모델 시뮬레이션 및 추가적인 보안 조치}{43}{subsection.5.4}%
+\contentsline {section}{\numberline {6장}결론}{46}{section.6}%
+\contentsline {subsection}{\numberline {6.1}연구의 의의}{46}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}연구의 한계}{46}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}향후 과제}{47}{subsection.6.3}%

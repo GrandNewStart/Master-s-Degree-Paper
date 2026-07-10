@@ -1,0 +1,5 @@
+\contentsline {table}{\numberline {1}{\ignorespaces 범위 증명 벤치마크}}{37}{table.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces 소유권 증명 벤치마크}}{37}{table.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces 서로 다른 복합 쿼리 크기에 따른 평균 쿼리 응답 시간(ms, 128 DI, 페이지 크기 30)}}{38}{table.3}%
+\contentsline {table}{\numberline {4}{\ignorespaces 데이터베이스 조회 시간 (ms)}}{39}{table.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces 전체 응답 시간 (ms)}}{40}{table.5}%

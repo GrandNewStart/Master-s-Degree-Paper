@@ -1,0 +1,15 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Gao et al. 외 많은 연구들이 제시한 데이터 증명 시스템의 일반적인 구조}}{8}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces 시스템 개요}}{19}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces 데이터베이스 엔티티 구조}}{21}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces 단위 데이터 구조}}{22}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces 데이터 발급 및 증명 생성 과정}}{23}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces DI 측의 증명 생성 과정}}{24}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces 증명 검색 과정}}{25}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces 범위 증명 회로의 구조}}{26}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces 복합 쿼리 처리의 과정}}{29}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces 소유권 증명의 커밋}}{29}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces 소유권 증명 회로의 구조}}{30}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces 복합 쿼리에 대한 응답 데이터의 예시}}{31}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces 서로 다른 DI 수에 따른 평균 응답 시간(단일 쿼리, 페이지 크기 30)}}{41}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces 서로 다른 페이지 크기에 따른 평균 응답 시간(단일 쿼리, 128 DI)}}{42}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces 공격자 대시보드 시뮬레이션 화면}}{43}{figure.15}%
